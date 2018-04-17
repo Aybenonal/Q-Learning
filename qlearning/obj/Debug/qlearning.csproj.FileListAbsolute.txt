@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\qlearning\qlearning\bin\Debug\qlearning.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\qlearning\qlearning\bin\Debug\qlearning.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\qlearning\qlearning\bin\Debug\qlearning.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\qlearning\qlearning\obj\Debug\qlearning.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\qlearning\qlearning\obj\Debug\qlearning.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\qlearning\qlearning\obj\Debug\qlearning.pdb
+C:\Users\Ayben\Desktop\qlearning\qlearning\bin\Debug\qlearning.exe.config
+C:\Users\Ayben\Desktop\qlearning\qlearning\bin\Debug\qlearning.exe
+C:\Users\Ayben\Desktop\qlearning\qlearning\bin\Debug\qlearning.pdb
+C:\Users\Ayben\Desktop\qlearning\qlearning\obj\Debug\qlearning.csprojResolveAssemblyReference.cache
+C:\Users\Ayben\Desktop\qlearning\qlearning\obj\Debug\qlearning.exe
+C:\Users\Ayben\Desktop\qlearning\qlearning\obj\Debug\qlearning.pdb
